@@ -23,7 +23,8 @@ md5sums=('9f5157bb783b64b194b958de001434a6'
 
 depends=("alsa-lib>=1.0.14" "glibc>=2.6" "openssl" "gconf" "nss" "systemd" "gtk2" "libxtst" "libx11")
 optdepends=('desktop-file-utils: Adds URI support to compatible desktop environments'
-            'ffmpeg-compat: Adds support for playback of local files')
+            'ffmpeg-compat: Adds support for playback of local files'
+	    'libnotify: Adds desktop notifications')
 
 package() {
   cd "${srcdir}"
