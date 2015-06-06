@@ -1,3 +1,11 @@
+6th June 2015 (GMT) EvanA <evan at thelinuxman dot us>
+    * 1.0.7.153
+		Update spotify version (.gb9e8174a)
+		Update install with new paths
+		Update PKGBUILD to align with numerous removed items
+		Remove unneeded dependencies
+		Remove separate spotify binary
+
 22nd May 2015 (GMT) Gadget3000 <gadget3000 at msn dot com>
     * 0.9.17.8
 		Updated spotify version (.gd06432d.31-1)
