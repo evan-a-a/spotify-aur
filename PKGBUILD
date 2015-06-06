@@ -1,5 +1,6 @@
 # Maintainer: Gadget3000 <gadget3000@msn.com>
 # Contributor: Eothred <yngve.levinsen@gmail.com>
+# Contributor: EvanA <evan@thelinuxman.us>
 
 pkgname=spotify
 pkgver=1.0.7.153
